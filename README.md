@@ -20,3 +20,6 @@ The primary objective of this project is to:
 2. Implement and train the ConvLSTM and LRCN models on the event-based dataset.
 3. Evaluate the performance of these models on the dataset.
 4. Compare the results to understand which model performs better for event-based action recognition.
+
+Credits
+This project has been inspired by and utilizes resources from "https://github.com/CrystalMiaoshu/PAFBenchmark/tree/master".
